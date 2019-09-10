@@ -6,4 +6,4 @@ The code efficientcy isn't particularly great as the project was designed specif
 
 If you would like to get a hands on feel you can go here:
 
-If you would like to see a Sequelized version of this application visit this link:
+If you would like to see a Sequelized version of this application visit this link: https://github.com/Cjochen2/Eat-Da-Burger-Sequelize
